@@ -102,7 +102,7 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* took away dot to convert from class */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,7 +111,7 @@ main section {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* consolidated section images to one section */
 section > img {
     max-height: 200px;
 }
